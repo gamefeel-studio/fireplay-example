@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "demo": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    }
+  }
+}

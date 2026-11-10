@@ -1,0 +1,8 @@
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Backend/functions/node_modules/
+Config/Firebase/google-services.json
+Config/Firebase/GoogleService-Info.plist
+*.keystore
